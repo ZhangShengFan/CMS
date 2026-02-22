@@ -1,4 +1,3 @@
-```markdown
 # FilmCMS
 
 基于 Cloudflare Workers + D1 + KV 构建的轻量级影视内容管理系统，无需服务器，免费部署。
@@ -131,4 +130,3 @@ https://example.com/api.php/provide/vod
 ## License
 
 MIT
-```
